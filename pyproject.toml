@@ -1,0 +1,14 @@
+[project]
+name = "comfy_kepkitchensink"
+description = "Nodes: KepRotateImage"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/M1kep/Comfy_KepKitchenSink"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfy_KepKitchenSink"
+Icon = ""
